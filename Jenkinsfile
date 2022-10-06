@@ -10,7 +10,7 @@ pipeline
                         {
                                 echo 'This is Build part'
                         
-                                sh 'python App1.py'
+                                sh 'python3 App1.py'
                                 
                          }
                  
